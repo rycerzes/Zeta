@@ -122,4 +122,4 @@ client.on('message', async (message) => {
 });
 
 // Do not touch this
-client.login(process.env.BOT_||"OTQxNjk5MDg4OTkzMzcwMTUy.YgZvng.0HMfnh87fXKtAQe2rfqqaJERSyw");
+client.login(process.env.BOT_||"");
